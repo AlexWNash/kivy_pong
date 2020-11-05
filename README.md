@@ -7,4 +7,5 @@ Planned improvements include:
   - difficulty selection
   - pop-up score messages
   - additional graphic options
+  - Packaged for windows
   - other improvements tbd
